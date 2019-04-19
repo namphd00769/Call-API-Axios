@@ -1,3 +1,11 @@
+### `Giới Thiệu :`
+Đây là bài demo của connext với api, sử dụng Axios, qua đó mình sẽ tạo 1 action để lên trên database lấy
+api về và, 1 action được khai báo để chuyển api về store. trong lúc liên kết với api mình sẽ dùng ở 1 trang là:
+page hoặc container.
+
+## Lưu ý :
+Chỉ cần 1 nơi lưu trữ state là store, còn lại thì nên lưu trữ state ở 1 trang duy nhất chứa form nhập input
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

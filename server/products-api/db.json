@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bún Bò",
+      "price": "45",
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "Phở Gà",
+      "price": "50",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Bánh Đa Dừa",
+      "price": "10",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Cá Hồi",
+      "price": "500",
+      "status": false
+    }
+  ]
+}
